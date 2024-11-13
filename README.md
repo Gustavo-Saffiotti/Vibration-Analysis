@@ -16,7 +16,8 @@ The article explores:
 - **FFT (Fast Fourier Transform) Method**: A detailed exploration of FFT as a tool for decomposing vibration signals to identify critical frequencies, aiding in fault diagnosis.
 
 For full details, read the article here:
-- [Vibration Analysis in Rotating Machinery (PDF)](Vibration Analysis in Rotating Machinery.pdf)
+- [Vibration Analysis in Rotating Machinery (PDF)](Vibration%20Analysis%20in%20Rotating%20Machinery.pdf)
+
 
 ---
 
